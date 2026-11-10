@@ -4,7 +4,7 @@ En este repositorio se explica como ejecutar y aplicar las políticas del CIS Ub
 Hay 3 archivos adjuntos:
   1. CIS_Wazuh_Documentación: PDFs explicando las instrucciones.
   2. Tabla_políticas_CIS_Ubuntu.xlsx: tabla visual de políticas a aplicar.
-  3. CIS_Ubuntu.sh: script Bash que ejecuta las correcciones.
+  3. CIS_Ubuntu.sh: script Bash que ejecuta las correcciones del CIS.
 
 
 ⚠️ Importante: Debes de revisar las políticas antes de ejecutar el script porque algunas pueden bloquear servicios o funciones necesarias del sistema, todo depende de como sea tu entorno y de cuales sean tus necesidades.
